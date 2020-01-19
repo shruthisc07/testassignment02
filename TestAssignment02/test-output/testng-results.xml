@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121812" started-at="2020-01-19T16:51:18Z" finished-at="2020-01-19T16:53:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121812" started-at="2020-01-19T16:51:18Z" finished-at="2020-01-19T16:53:20Z">
+      <class name="com.testassignment02.driverscript.DriverScript">
+        <test-method status="PASS" signature="startAutomationSuite()[pri:0, instance:com.testassignment02.driverscript.DriverScript@4de8b406]" name="startAutomationSuite" is-config="true" duration-ms="9" started-at="2020-01-19T22:21:18Z" finished-at="2020-01-19T22:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method status="PASS" signature="executeTestScenarios()[pri:0, instance:com.testassignment02.driverscript.DriverScript@4de8b406]" name="executeTestScenarios" duration-ms="121786" started-at="2020-01-19T22:21:18Z" finished-at="2020-01-19T22:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+      </class> <!-- com.testassignment02.driverscript.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestAssigment02 Automation">
+  <test name="TestAssignment02 Automation tests">
+    <classes>
+       <class name="com.testassignment02.driverscript.DriverScript"></class>
+    </classes>
+  </test>
+</suite>
